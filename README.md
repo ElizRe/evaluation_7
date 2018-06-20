@@ -3,7 +3,7 @@
 ## Objectif
 
 * Choisir un CMS parmi la liste ci-dessous et l'installer.
-* Installer et configuration du module (relatif au choix du CMS)
+* Installer et configuration du module/plugin (au choix)
 * Création d'un thème custom (Création d'un header/footer)
 * Création d'un module custom. Un fois activé, l'url "/simplon" devra renvoyer
 une page contenant le texte "It works", désactivé cette url devra renvoyer une
@@ -16,8 +16,7 @@ expliquant précisément comment monté le projet en local.
 
 ## CMS disponibles
 
-* Joomla (module à configurer : "")
-* Wordpress (module à configurer : "")
-* Drupal (module à configurer : "Metatags")
-* ????? (module à configurer : "")
-* ????? (module à configurer : "")
+* Joomla
+* Wordpress
+* Drupal
+* October
