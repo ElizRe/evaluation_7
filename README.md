@@ -1,22 +1,4 @@
-# Evauation 7 : Mise en place d'un CMS
-
-## Objectif
-
-* Choisir un CMS parmi la liste ci-dessous et l'installer.
-* Installer et configuration du module/plugin (au choix)
-* Création d'un thème custom (Création d'un header/footer)
-* Création d'un module custom. Un fois activé, l'url "/simplon" devra renvoyer
-une page contenant le texte "It works", désactivé cette url devra renvoyer une
-erreur 404.
-
-## Rendu
-
-Il sera demandé le code source, un dump de la base de données et un README 
-expliquant précisément comment monté le projet en local.
-
-## CMS disponibles
-
-* Joomla
-* Wordpress
-* Drupal
-* October
+Installation instructions:
+1. Import the database file "evaluation_7.sql" into your database via PHPMYADMIN.
+2. Follow the instructions on the website to install Wordpress locally:https://doc.ubuntu-fr.org/wordpress
+3. if you prefer not to set up a localhost, you can access your site on a localhost internet page via the Terminal when you are inside the install folder with the following command: php -S localhost:8888
